@@ -1,4 +1,4 @@
-# Mapa das Eleições presidenciais no Brasil em 2018
+# Mapa do 2º turno das eleições presidenciais no Brasil em 2018
 
 Como o Brasil votou para presidente em 2018?
 
